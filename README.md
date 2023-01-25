@@ -45,7 +45,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 
 
 
-
+<!-- 
 ⭐️ Recent projects in which I have contributed :rocket:
 
 
@@ -56,5 +56,5 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 <a href="http://samasoltani.art/">
   <img align="right" src="http://samasoltani.art/" />
 </a>
-
+ -->
 
