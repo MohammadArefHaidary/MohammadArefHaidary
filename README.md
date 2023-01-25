@@ -20,7 +20,7 @@
 <br />
 
 
-Hi, I'm Mohammad Aref Haidary,a **Software Engineer** 🚀 from Afghanistan, Currently working as Web Developer 
+Hi, I'm Mohammad Aref Haidary,a **Software Engineer** 🚀 from Afghanistan, Currently working as a Web Developer 
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️🗻.
 
